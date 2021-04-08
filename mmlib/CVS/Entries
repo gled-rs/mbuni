@@ -1,0 +1,25 @@
+/.cvsignore/1.1/Thu Oct 27 05:11:46 2005//
+/Makefile.am/1.17/Fri Sep 23 06:27:37 2011//
+/charmibenum.def/1.1/Mon Nov 29 12:30:03 2010//
+/mms_cfg-impl.h/1.2/Wed Nov 12 16:48:47 2008//
+/mms_cfg.c/1.13/Thu Oct 21 17:51:16 2010//
+/mms_cfg.def/1.48/Tue Feb 11 12:43:53 2014//
+/mms_cfg.h/1.7/Thu Oct 21 17:51:16 2010//
+/mms_eventlogger.c/1.4/Wed May 26 10:36:27 2010//
+/mms_eventlogger.h/1.5/Thu Nov  4 06:26:31 2010//
+/mms_mm7soap.c/1.70/Tue Feb 11 08:47:28 2014//
+/mms_mm7soap.h/1.20/Fri Nov  5 05:49:56 2010//
+/mms_mmbox.c/1.11/Mon Jan 25 09:40:00 2010//
+/mms_mmbox.h/1.4/Thu Jul 10 09:46:49 2008//
+/mms_msg.c/1.60/Thu Sep  8 10:47:58 2011//
+/mms_msg.h/1.17/Thu Sep  8 10:47:58 2011//
+/mms_queue.c/1.47/Mon Nov 29 12:30:03 2010//
+/mms_queue.h/1.20/Thu Jan  6 05:55:35 2011//
+/mms_strings.c/1.8/Thu Jul 10 09:46:51 2008//
+/mms_strings.def/1.14/Fri Sep 19 15:58:15 2008//
+/mms_strings.h/1.7/Thu Jul 10 09:46:51 2008//
+/mms_uaprof.c/1.28/Wed Oct 12 05:13:29 2011//
+/mms_uaprof.h/1.5/Thu Jul 10 09:46:51 2008//
+/mms_util.c/1.132/Tue Feb 11 12:43:53 2014//
+/mms_util.h/1.74/Tue Feb 11 12:43:53 2014//
+D
